@@ -19,7 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rizishowkathali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizishowkathali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/showkath5930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showkath5930" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://kw.linkedin.com/in/showkath-ali-616b5353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://kw.linkedin.com/in/showkath-ali-616b5353" height="30" width="40" /></a> 
+<a href="https://instagram.com/showkath_5930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="showkath_5930" height="30" width="40" /></a>
 <a href="https://fb.com/showkath.ali.7921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="showkath.ali.7921" height="30" width="40" /></a>
 </p>
 
