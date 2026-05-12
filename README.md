@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Showkath Ali .A</h1>
-<h3 align="center">IT Manger</h3>
+<h3 align="center">IT Manger!Digital Marketing EXCECUTIVE</h3>
 
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
